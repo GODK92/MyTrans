@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5F9"
+textColor = "#1F2937"
+# 한국어·일본어·베트남어가 모두 깨지지 않도록 기기에 설치된 글꼴을 순서대로 쓴다.
+font = "'Segoe UI', 'Yu Gothic UI', 'Meiryo', 'Hiragino Sans', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans CJK KR', 'Noto Sans', sans-serif"
+# 번역 결과(st.code)도 본문과 같은 글꼴로 보여준다.
+codeFont = "'Segoe UI', 'Yu Gothic UI', 'Meiryo', 'Hiragino Sans', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans CJK KR', 'Noto Sans', sans-serif"
